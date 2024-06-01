@@ -1,0 +1,5 @@
+Realtime Running Game:
+
+In this project, I want to create an entity which will be seen running in our own environment through our mobile screen.
+In this game, there will be a player who will be running to collect coins and stamina bottles to keep running. The stamina bottles will help player to keep on playing and coins will help to increase the points. The game will be infinite therefore as the points increases the difficulty level of the game will also increase. In the game there will be some obstacles too which decrease the performance of the player.
+As this game gives the feeling of playing in our own environment it is more funneir and enjoyable.
